@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
 
 body {
@@ -64,11 +65,12 @@ body {
 .about-me{
     height: 600px;
     background-color: #69D31D;
-    padding: 40px;
+    padding: 30px;
     display: flex;
     justify-content: center;
 }
 h1{
     color: white;
     font-family: 'Lobster', cursive;
+    font-size: 50px;
 }
